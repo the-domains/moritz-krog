@@ -1,6 +1,7 @@
 name: Moritz Krog
 favicon: null
 layout_spectrum: 0.76081
+typography_spectrum: 0.5
 style: A1
 title: Moritz Krog
 cta:
@@ -17,11 +18,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#333333'
-    - '#9fbf3b'
-    - '#99792f'
-    - '#1071ff'
+    - '#050503'
+    - '#fffffa'
+    - '#554d5c'
+    - '#ac94aa'
+    - '#f6b14a'
   brandStrength: 1
   lightness: 0.5
   saturation: 0.5

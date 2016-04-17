@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Moritz Krog]]></title>
+        <description><![CDATA[Moritz Krog]]></description>
+        <link>https://thegrid.ai/moritz-krog/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 17 Apr 2016 07:42:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/moritz-krog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My First iPad Post]]></title>
+            <description><![CDATA[<article><h1>My First iPad Post</h1><p>This is the first post written from the iOS app. I’m testing various features and hope that I end up with a post I can publish to this site.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ff39f06f7b709ef7385ac3f9fdc87ca1bd220ac.jpg"></article>]]></description>
+            <link>https://thegrid.ai/moritz-krog/my-first-ipad-post/index.html</link>
+            <guid isPermaLink="false">90b7e610-ed28-438b-9055-5156bc20f5f7</guid>
+            <pubDate>Sun, 17 Apr 2016 07:42:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Underscore.js]]></title>
+            <description><![CDATA[<article><h1>Underscore.js</h1><p>Alias: each _.each(list, iteratee, [context]) forEach Iterates over a list of elements, yielding each in turn to an iteratee function. The iteratee is bound to the context object, if one is passed. Each invocation of iteratee is called with three arguments:(element, index, list). If list is a JavaScript object, iteratee's arguments will be(value, key, list).</p></article>]]></description>
+            <link>http://underscorejs.org/#result</link>
+            <guid isPermaLink="false">cc987d4f-cd8f-47f8-82ff-e284349fb04b</guid>
+            <pubDate>Fri, 13 Nov 2015 14:20:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdffed43-2200-4542-8349-06824c9d0b7a.JPG">]]></description>
+            <link>https://thegrid.ai/moritz-krog/80aa1805-53ab-4267-ab76-4a532cce7426/index.html</link>
+            <guid isPermaLink="false">80aa1805-53ab-4267-ab76-4a532cce7426</guid>
+            <pubDate>Fri, 09 Oct 2015 01:45:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
